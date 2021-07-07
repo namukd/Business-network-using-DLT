@@ -1,0 +1,17 @@
+# Tasks
+- [x] abstract
+- [x] synopsis
+- [x] figure out requirements
+- [x] install prerequisites
+- [x] learn docker
+- [x] model the participants,transactions
+- [x] add logic.js
+- [x] learn composer
+- [x] create Business Network Archive
+- [x] run the fabric 
+- [x] install BNA on fabric
+- [x] deploy BNA on fabric
+- [x] build REST server
+- [x] angular app
+- [ ] improve
+- [ ] final report
